@@ -2,7 +2,7 @@
 
 int main() {
     // Converte segundos em horas, minutos e segundos
-    // entrada: int | saida: string
+    // void -> int
     int qtdSegundos, h, m, s, resto;
 
     printf("Digite uma quantidade de segundos: ");
